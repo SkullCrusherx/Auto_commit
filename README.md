@@ -1,5 +1,3 @@
-# Auto_commit
-
 # Auto Commit and GitHub Push using Python
 
 This project automatically:
